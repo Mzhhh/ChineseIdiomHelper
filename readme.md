@@ -9,7 +9,7 @@
 将本项目下载到本地，可以点击右侧绿色的 `Clone or download` 或在命令行中输入 
 
 ```bash
-$ git clone https://github.com/Mzhhh/
+$ https://github.com/Mzhhh/ChineseIdiomHelper.git
 ```
 
 项目依赖包：`pypinyin` （可自行使用 pip 安装）
